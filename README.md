@@ -1,4 +1,4 @@
-# quizletGravityAI
+# Quizlet Gravity AI
 
 This Python Script automatically play's Quizlet's Gravity Game (windows only). 
 
